@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AdminNews</string>
+    <string name="exclusive_news">Exclusive News</string>
+    <!-- Error messages-->
+    <string name="registration_failed_please_check_entered_phone_number">Registration failed, please check entered phone number</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+
+    <!-- User Activity-->
+    <string name="discover_your_daily_news_here">Discover your Daily news Here</string>
+    <string name="explore_all_the_most_exiting_news_based_on_your_interest_and_country">Explore all the most exiting news based on your interest and country</string>
+    <string name="register_with_your_mobile_number">Register with your phone number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="change_phone_number">Change phone number</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="get_started">Get Started</string>
+</resources>
